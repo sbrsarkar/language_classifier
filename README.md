@@ -2,7 +2,7 @@
 identify the language of a given word 
 
 ## predict
-run the following script in terminal:
+run the following command in terminal:
 ```
 python predict.py 'thanks' 
 ```
