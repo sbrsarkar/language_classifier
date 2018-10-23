@@ -6,4 +6,4 @@ run the following command in terminal:
 ```
 python predict.py 'thanks' 
 ```
-![sample outputs](https://github.com/sbrsarkar/language_classifier/blob/master/data/predict.png)
+![sample outputs](https://github.com/sbrsarkar/language_classifier/blob/master/data/predict.png =250x250)
