@@ -10,8 +10,7 @@ python predict.py 'thanks'
 <img src="https://github.com/sbrsarkar/language_classifier/blob/master/data/predict.png" alt="sample outputs" width="450" height="350">
 
 ## model
-<img src="https://github.com/sbrsarkar/language_classifier/blob/master/predict.png" alt="model_architecture" width="450" height="350">
-
+<img src="https://github.com/sbrsarkar/language_classifier/blob/master/model.png" alt="model_architecture" width="450" height="350">
 
 ## references
 [1]: Cho, Kyunghyun, Bart Van Merriënboer, Dzmitry Bahdanau, and Yoshua Bengio. "On the properties of neural machine translation: Encoder-decoder approaches." arXiv preprint arXiv:1409.1259 (2014).
